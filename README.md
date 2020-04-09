@@ -1,2 +1,3 @@
 # hello-world
 This is my hello world
+I am new to coding and testing this out. Not sure where this journey will take me...
